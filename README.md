@@ -1,7 +1,7 @@
 - print ("Hello World!")
 
 def func():
-	print("👋 I’m @abplayzGH/ Adam
+print("👋 I’m @abplayzGH/ Adam
 - 👀 I’m interested in, Python,Linux,Docker,CCNA
 - 🌱 I’m currently learning, ^^^ All of the above ^^^ 
 - 💞️ I’m looking to collaborate on IDk your mom 
