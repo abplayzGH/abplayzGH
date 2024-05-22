@@ -1,14 +1,6 @@
-- print ("Hello World!")
-
-def func():
-- print("👋 I’m @abplayzGH/ Adam
-- 👀 I’m interested in, Python,Linux,Docker,CCNA
-- 🌱 I’m currently learning, ^^^ All of the above ^^^ 
-- 💞️ I’m looking to collaborate on IDk your mom 
-- 📫 How to reach me, adam@imposter.tk
-")
-
-func()
+Stupid developer.
+C is awesome.
+Javascript sucks.
 
 <!---
 abplayzGH/abplayzGH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
